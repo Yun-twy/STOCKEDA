@@ -1,0 +1,101 @@
+,company,code
+0,Apple,AAPL
+1,Microsoft,MSFT
+2,Alphabet (Google),GOOG
+3,Amazon,AMZN
+4,Berkshire Hathaway,BRK-B
+5,Tesla,TSLA
+6,NVIDIA,NVDA
+7,Visa,V
+8,UnitedHealth,UNH
+9,Exxon Mobil,XOM
+10,Meta Platforms (Facebook),META
+11,JPMorgan Chase,JPM
+12,Johnson & Johnson,JNJ
+13,Walmart,WMT
+14,Mastercard,MA
+15,Procter & Gamble,PG
+16,Chevron,CVX
+17,Eli Lilly,LLY
+18,Home Depot,HD
+19,Merck,MRK
+20,Bank of America,BAC
+21,AbbVie,ABBV
+22,Coca-Cola,KO
+23,Pepsico,PEP
+24,Broadcom,AVGO
+25,Oracle,ORCL
+26,Pfizer,PFE
+27,Costco,COST
+28,Thermo Fisher Scientific,TMO
+29,Cisco,CSCO
+30,McDonald,MCD
+31,Walt Disney,DIS
+32,Nike,NKE
+33,Danaher,DHR
+34,Wells Fargo,WFC
+35,T-Mobile US,TMUS
+36,Abbott Laboratories,ABT
+37,Morgan Stanley,MS
+38,Verizon,VZ
+39,Salesforce,CRM
+40,Comcast,CMCSA
+41,United Parcel Service,UPS
+42,Texas Instruments,TXN
+43,Philip Morris,PM
+44,Charles Schwab,SCHW
+45,Bristol-Myers Squibb,BMY
+46,Adobe,ADBE
+47,Raytheon Technologies,RTX
+48,Nextera Energy,NEE
+49,Netflix,NFLX
+50,QUALCOMM,QCOM
+51,AT&T,T
+52,American Express,AXP
+53,Honeywell,HON
+54,ConocoPhillips,COP
+55,AMD,AMD
+56,Amgen,AMGN
+57,Deere & Company,DE
+58,Lockheed Martin,LMT
+59,Goldman Sachs,GS
+60,Caterpillar,CAT
+61,Lowe's Companies,LOW
+62,Union Pacific Corporation,UNP
+63,Boeing,BA
+64,Intuit,INTU
+65,IBM,IBM
+66,Starbucks,SBUX
+67,Elevance Health,ELV
+68,S&P Global,SPGI
+69,Prologis,PLD
+70,CVS Health,CVS
+71,Intel,INTC
+72,BlackRock,BLK
+73,Gilead Sciences,GILD
+74,Stryker Corporation,SYK
+75,Citigroup,C
+76,Booking Holdings (Booking.com),BKNG
+77,Applied Materials,AMAT
+78,Analog Devices,ADI
+79,Automatic Data Processing,ADP
+80,American Tower,AMT
+81,General Electric,GE
+82,Mondelez,MDLZ
+83,TJX Companies,TJX
+84,Cigna,CI
+85,Estee Lauder,EL
+86,ServiceNow,NOW
+87,Altria Group,MO
+88,PayPal,PYPL
+89,Progressive,PGR
+90,Regeneron Pharmaceuticals,REGN
+91,Intuitive Surgical,ISRG
+92,Marsh & McLennan Companies,MMC
+93,Airbnb,ABNB
+94,Zoetis,ZTS
+95,Target,TGT
+96,Schlumberger,SLB
+97,Duke Energy,DUK
+98,Vertex Pharmaceuticals,VRTX
+99,U.S. Bancorp,USB
