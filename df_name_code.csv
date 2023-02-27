@@ -3,13 +3,13 @@
 1,Microsoft,MSFT
 2,Alphabet (Google),GOOG
 3,Amazon,AMZN
-4,Berkshire Hathaway,BRK-B
+4,Berkshire Hathaway,BRK.B
 5,Tesla,TSLA
 6,NVIDIA,NVDA
 7,Visa,V
 8,UnitedHealth,UNH
 9,Exxon Mobil,XOM
-10,Meta Platforms (Facebook),META
+10,Meta Platforms(Facebook),FB
 11,JPMorgan Chase,JPM
 12,Johnson & Johnson,JNJ
 13,Walmart,WMT
@@ -75,8 +75,8 @@
 73,Gilead Sciences,GILD
 74,Stryker Corporation,SYK
 75,Citigroup,C
-76,Booking Holdings (Booking.com),BKNG
-77,Applied Materials,AMAT
+76,Applied Materials,AMAT
+77,Booking Holdings (Booking.com),BKNG
 78,Analog Devices,ADI
 79,Automatic Data Processing,ADP
 80,American Tower,AMT
@@ -94,8 +94,8 @@
 92,Marsh & McLennan Companies,MMC
 93,Airbnb,ABNB
 94,Zoetis,ZTS
-95,Target,TGT
-96,Schlumberger,SLB
+95,Schlumberger,SLB
+96,Target,TGT
 97,Duke Energy,DUK
 98,Vertex Pharmaceuticals,VRTX
 99,U.S. Bancorp,USB
